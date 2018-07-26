@@ -173,6 +173,7 @@ The starting point would be to check the [concepts](docs/concepts.md) and then c
 - [redis-operator](https://github.com/spotahome/redis-operator)
 - [node-labeler-operator](https://github.com/barpilot/node-labeler-operator)
 - [source-ranges-controller](https://github.com/jeffersongirao/source-ranges-controller)
+- [namespace-populator](https://github.com/barpilot/namespace-populator)
 
 [travis-image]: https://travis-ci.org/spotahome/kooper.svg?branch=master
 [travis-url]: https://travis-ci.org/spotahome/kooper
